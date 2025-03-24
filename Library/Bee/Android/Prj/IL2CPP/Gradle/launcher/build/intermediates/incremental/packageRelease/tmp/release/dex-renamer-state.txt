@@ -1,0 +1,4 @@
+#Tue May 14 00:13:34 BST 2024
+base.0=C\:\\Users\\yashp\\Downloads\\ARIndoorNavigation-main\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

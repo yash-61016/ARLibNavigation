@@ -1,0 +1,32 @@
+{
+	"TargetList": [
+		{
+			"Name": "Book1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -40.2,
+				"y": 0.00,
+				"z": -1.1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Book2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -50.5,
+				"y": 0.00,
+				"z": -2.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
